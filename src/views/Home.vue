@@ -3,7 +3,7 @@
     <div class="contenedor-resumen">
       <div class="contenido-resumen">
         <div class="contenedor-elegir-laboratorio">
-          <h3 class="tipo-laboratorio">Laboratorio</h3>
+          <h3 class="tipo-laboratorio">Laboratorios PortoAguas</h3>
           <select
             class="seleccion-tipos-laboratorios"
             name="tipos"
