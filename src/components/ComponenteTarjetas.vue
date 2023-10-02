@@ -68,7 +68,7 @@ export default {
         this.humedad = dataHumedad[dataHumedad.length - 1];
 
         //filtramos los datos por la fecha de hoy
-        const fechaHoy = "2023-09-27";
+        const fechaHoy = "2023-10-02";
 
         const datosFiltrados = dataTemperatura.filter(dato =>
           dato.date.includes(fechaHoy)
